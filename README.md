@@ -134,6 +134,8 @@ plt.ylabel("Max Temperature (F)")
 plt.savefig('Latitude_vs_Max_Temp')
 ```
 
+![Latitude vs Max Temp](https://github.com/xjarodx/PythonandAPIs/blob/master/images/Latitude_vs_Max_Temp.png)
+
 ```
 plt.scatter(city_lat, city_humidity, s=40, c="skyblue",
            edgecolor="black", linewidths=1, marker="o",
@@ -144,6 +146,8 @@ plt.xlabel("Latitude")
 plt.ylabel("Humidity (%)")
 plt.savefig('Latitude_vs_Humidity')
 ```
+
+![Latitude vs Humidity](https://github.com/xjarodx/PythonandAPIs/blob/master/images/Latitude_vs_Humidity.png)
 
 ```
 plt.scatter(city_lat, city_clouds, s=40, c="skyblue",
@@ -156,6 +160,8 @@ plt.ylabel("Cloudiness (%)")
 plt.savefig('Latitude_vs_Cloudiness')
 ```
 
+![Latitude vs Cloudiness](https://github.com/xjarodx/PythonandAPIs/blob/master/images/Latitude_vs_Cloudiness.png)
+
 ```
 plt.scatter(city_lat, city_wind, s=40, c="skyblue",
            edgecolor="black", linewidths=1, marker="o",
@@ -166,3 +172,5 @@ plt.xlabel("Latitude")
 plt.ylabel("Wind Speed (mph)")
 plt.savefig('Latitude_vs_WindSpeed')
 ```
+
+![Latitude vs Windspeed](https://github.com/xjarodx/PythonandAPIs/blob/master/images/Latitude_vs_WindSpeed.png)
