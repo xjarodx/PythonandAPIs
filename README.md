@@ -1,5 +1,5 @@
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. To that end, I've created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator in order to demonstrate the impact proximaty to the equator has on temperature. To accomplish this, I used [CitiPy](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api).
+Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. To that end, I've used a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator in order to demonstrate the impact proximaty to the equator has on temperature. To accomplish this, I used [CitiPy](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api).
 
 ```
 # Dependencies and Setup
